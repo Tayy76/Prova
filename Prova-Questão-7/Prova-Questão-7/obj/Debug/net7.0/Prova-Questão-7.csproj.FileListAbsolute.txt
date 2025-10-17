@@ -1,0 +1,15 @@
+D:\Vida_Nova\Bruno_Manzoli\Revisão_Prova\Prova-Questão-7\Prova-Questão-7\bin\Debug\net7.0\Prova-Questão-7.exe
+D:\Vida_Nova\Bruno_Manzoli\Revisão_Prova\Prova-Questão-7\Prova-Questão-7\bin\Debug\net7.0\Prova-Questão-7.deps.json
+D:\Vida_Nova\Bruno_Manzoli\Revisão_Prova\Prova-Questão-7\Prova-Questão-7\bin\Debug\net7.0\Prova-Questão-7.runtimeconfig.json
+D:\Vida_Nova\Bruno_Manzoli\Revisão_Prova\Prova-Questão-7\Prova-Questão-7\bin\Debug\net7.0\Prova-Questão-7.dll
+D:\Vida_Nova\Bruno_Manzoli\Revisão_Prova\Prova-Questão-7\Prova-Questão-7\bin\Debug\net7.0\Prova-Questão-7.pdb
+D:\Vida_Nova\Bruno_Manzoli\Revisão_Prova\Prova-Questão-7\Prova-Questão-7\obj\Debug\net7.0\Prova-Questão-7.csproj.AssemblyReference.cache
+D:\Vida_Nova\Bruno_Manzoli\Revisão_Prova\Prova-Questão-7\Prova-Questão-7\obj\Debug\net7.0\Prova-Questão-7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vida_Nova\Bruno_Manzoli\Revisão_Prova\Prova-Questão-7\Prova-Questão-7\obj\Debug\net7.0\Prova-Questão-7.AssemblyInfoInputs.cache
+D:\Vida_Nova\Bruno_Manzoli\Revisão_Prova\Prova-Questão-7\Prova-Questão-7\obj\Debug\net7.0\Prova-Questão-7.AssemblyInfo.cs
+D:\Vida_Nova\Bruno_Manzoli\Revisão_Prova\Prova-Questão-7\Prova-Questão-7\obj\Debug\net7.0\Prova-Questão-7.csproj.CoreCompileInputs.cache
+D:\Vida_Nova\Bruno_Manzoli\Revisão_Prova\Prova-Questão-7\Prova-Questão-7\obj\Debug\net7.0\Prova-Questão-7.dll
+D:\Vida_Nova\Bruno_Manzoli\Revisão_Prova\Prova-Questão-7\Prova-Questão-7\obj\Debug\net7.0\refint\Prova-Questão-7.dll
+D:\Vida_Nova\Bruno_Manzoli\Revisão_Prova\Prova-Questão-7\Prova-Questão-7\obj\Debug\net7.0\Prova-Questão-7.pdb
+D:\Vida_Nova\Bruno_Manzoli\Revisão_Prova\Prova-Questão-7\Prova-Questão-7\obj\Debug\net7.0\Prova-Questão-7.genruntimeconfig.cache
+D:\Vida_Nova\Bruno_Manzoli\Revisão_Prova\Prova-Questão-7\Prova-Questão-7\obj\Debug\net7.0\ref\Prova-Questão-7.dll
